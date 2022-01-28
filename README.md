@@ -1,10 +1,6 @@
 
 # multiqc_jupyterlab
 
-[![Build Status](https://travis-ci.org/Warsaw University of Technology/multiqc_jupyterlab.svg?branch=master)](https://travis-ci.org/Warsaw University of Technology/multiqc_jupyterlab)
-[![codecov](https://codecov.io/gh/Warsaw University of Technology/multiqc_jupyterlab/branch/master/graph/badge.svg)](https://codecov.io/gh/Warsaw University of Technology/multiqc_jupyterlab)
-
-
 JupyterLab extension for MultiQC
 
 ## Installation
